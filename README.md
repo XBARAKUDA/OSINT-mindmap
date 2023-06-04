@@ -3,6 +3,7 @@ This arrangement provides a logical flow from user information and domain inform
 
 
 chmod +x create_osint_directories.sh
+
 ./create_osint_directories.sh
 
 
